@@ -1,0 +1,14 @@
+LOG of the CHANGES in the package GenomicTools.fileHandler
+
+-----------------------------------------------------
+
+Version with odd last numbers are development versions.
+Stable releases have even version numbers:
+
+-----------------------------------------------------
+
+Version 0.1.2 (Stable Version):
+* Initial commit with most import I/O functions added
+
+Version 0.1.1 (Developer Version):
+* Initial package development
