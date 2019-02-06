@@ -54,9 +54,11 @@ print.bed <- function(x, n=6, ...){
   if(n<length(x)) message("Fasta sequences ommited to print: ", length(x)-n)
 } 
 
-#' Print a fa Object
+
+
+#' Print a fq Object
 #' 
-#' Prints a \code{fa} object.
+#' Prints a \code{fq} object.
 #' 
 #' The print function displays a fa object
 #' 
