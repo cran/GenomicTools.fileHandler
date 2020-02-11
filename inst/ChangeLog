@@ -6,6 +6,15 @@ Version with odd last numbers are development versions.
 Stable releases have even version numbers:
 
 -----------------------------------------------------
+Version 0.1.5.x:
+1: importFA does not rely on alternating rows anymore
+2: importSTARLog imports now more statistics and is able to import recursively several log files
+3: plotTotalReads function added
+4: summary.STARLog function added
+5: plotUniquelyReads function added and also added to the summary function
+6: importSTARLog handles now STAR2.7.2b log files (at the moment ONLY final.log)
+7: crucial bugfix in variant coding for importVCF
+8: print.gtf function added
 
 Version 0.1.4 (Stable Version):
 * Improvements of summary functions
