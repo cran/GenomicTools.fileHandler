@@ -1,6 +1,6 @@
-93e23c9c7141df0afa23d6b80012cf72 *DESCRIPTION
+26f37aeefd07fa5033831c463462b4c2 *DESCRIPTION
 85facc1c91b3b208f10bd6d28f5b9471 *NAMESPACE
-fc2ffc78dc3af5fbeb120c44abef42ce *R/GenomicTools.fileHandler.R
+03aedf04ac0a9b9f0075a6151f146517 *R/GenomicTools.fileHandler.R
 fcc8cc50d87adc5919d55cdb0eb2e150 *R/S3print.R
 8870bda39ff031953fea6b421a3cedd4 *R/S3summary.R
 dbfb78fcbc8eda1eea340d4cfe42caa5 *R/S3summary.STARLog.R
@@ -15,7 +15,7 @@ eaef429cc49af9af5e72c18fee205316 *R/importBlastTab.R
 75cc018351973a798fff00b4f76bce94 *R/importFeatureCounts.R
 65fb6832795d7b10729a21e082892f79 *R/importGFF.R
 3c399f680db9c388983262aa040f5a62 *R/importGFF3.R
-a5b1a8435845ac5a3ddc21f9da3386c9 *R/importGTF.R
+f12669889dd07be194e67ce711b89508 *R/importGTF.R
 fb9038e18bf7fe97aa22df123fc3d187 *R/importPED.R
 0f206f965660fe119cb65d9c4c57deb8 *R/importSTARLog.R
 9ea805950a3f13698cb8ab7e653ef600 *R/importVCF.R
@@ -24,10 +24,10 @@ b53ab572e5e9554d9e7b5052196a203a *R/plotTotalReads.R
 9b1777014e6a64ba57887744b0db9655 *R/plotUniquelyMappedReads.R
 fa2a57be36d19b3d14f19b1e45986bde *R/prereadGTF.R
 fbfde9ac9a5ce6727c724c5ab3d53f8b *build/vignette.rds
-6cdcf4b87f8b92d774ba5608a9f332f0 *inst/ChangeLog
+479d554987438108202f23ef5e4e1058 *inst/ChangeLog
 301fc02e4d930315a4534caf503df9d1 *inst/doc/GenomicTools.fileHandler-Vignette.R
 46a36fe6adaa9b4fcf77472b04bd2c4c *inst/doc/GenomicTools.fileHandler-Vignette.Rmd
-5cd8025ca1dd2ac84ed8efe2697ee4c4 *inst/doc/GenomicTools.fileHandler-Vignette.pdf
+4a92d84a9e27bb0b345b8b7c9c6865b8 *inst/doc/GenomicTools.fileHandler-Vignette.pdf
 c23509477c00828060d4583282ba007a *inst/extdata/example.bed
 90d18e9c059fac5860dba54aee45af3a *inst/extdata/example.fasta
 05cc17efb61118af25829aca576712f9 *inst/extdata/example.fastq
@@ -39,7 +39,7 @@ d804f17f1a2e68daa2cc46c565f0eb49 *inst/extdata/example.map
 28aec07ec03d3bb0167a4f47afbc8da3 *inst/extdata/example2.gtf.gz
 e2488b9f6b6123ab2d4051aaba6b192c *inst/extdata/featureCountsExample.txt
 9b55827e10a8e8e3bec46b6528e53c36 *inst/extdata/featureCountsExample.txt.summary
-e8ec59b9013a7bd4ca4f19bc4329351e *man/GenomicTools.fileHandler-package.Rd
+a976a0e5f827ab46f7c4e0f6f5a06599 *man/GenomicTools.fileHandler-package.Rd
 91c0f1e34ab21f3e180d8d6c25ac1772 *man/example.bed.Rd
 ef0ddb49f7860ceebbfc9b0c159b323c *man/example.fasta.Rd
 4c64f71c7cd8272978b73ca9f7d7d9a9 *man/example.fastq.Rd
